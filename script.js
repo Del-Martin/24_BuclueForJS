@@ -2,7 +2,7 @@ function boton1() {
   let lista = document.getElementById("lista-e1");
   lista.innerHTML = "";
 
-  for (let numeroVariable = 40; numeroVariable > 19; numeroVariable--) {
+  for (let numeroVariable = 50; numeroVariable > 19; numeroVariable--) {
     let nuevoNumero = document.createElement("li");
     nuevoNumero.textContent = numeroVariable;
 
