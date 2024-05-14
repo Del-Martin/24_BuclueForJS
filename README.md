@@ -18,7 +18,11 @@ Functionality:
 - Prompts the user to input the price of 5 products.
 - Sums the total price.
 - Applies a 15% discount if the total is 100 euros or more, and prints both the original and discounted prices.
-- If the total is less than 100 euros, prints the total price without any discount.
+- If the total is less than 100 euros, prints the total price without any discount.  
+
+**Credits**  
+Developed by: **Martín Delfini** - 
+Date: April 11, 2024
 
   ---
 
@@ -42,3 +46,7 @@ Funcionalidad:
 - Suma el precio total.
 - Aplica un descuento del 15% si el total es de 100 euros o más, e imprime tanto el precio original como el precio con descuento.
 - Si el total es menor de 100 euros, imprime solo el precio total.
+
+  **Creditos**  
+Desarrollado por: **Martín Delfini** - 
+Fecha: 11 de abril de 2024
